@@ -2,6 +2,8 @@
 
 The **Simple Climate Data Viewer** made with RStudio is a Shiny web application that visualizes climate data across different cities. The app allows users to interactively select a location from a map, view temperature trends over the years in a time series plot, and download the filtered data for further analysis.
 
+Please refer to the climate_shiny_app.R file to view the code
+
 ## Features:
 - **Interactive Map**: Select a location from a leaflet map with clickable markers.
 - **Time Series Plot**: Displays the temperature trends over the years for the selected city.
